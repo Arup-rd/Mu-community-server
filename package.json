@@ -1,0 +1,24 @@
+{
+  "name": "DevCommunity",
+  "version": "1.0.0",
+  "description": "A social network for developers",
+  "main": "server.js",
+  "author": "Arup rd",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.12",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^10.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
