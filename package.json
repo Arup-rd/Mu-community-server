@@ -1,7 +1,7 @@
 {
   "name": "DevCommunity",
   "version": "1.0.0",
-  "description": "A social network for developers",
+  "description": "A social network site for developers",
   "main": "server.js",
   "author": "Arup rd",
   "license": "MIT",
@@ -12,6 +12,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "gravatar": "^1.6.0",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.2.12",
     "passport": "^0.4.0",
