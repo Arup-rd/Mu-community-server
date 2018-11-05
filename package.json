@@ -1,7 +1,7 @@
 {
   "name": "MuCommunity",
   "version": "1.0.0",
-  "description": "A social network site for developers",
+  "description": "A social network site for Metropolitan university",
   "main": "server.js",
   "author": "Arup rd",
   "license": "MIT",
